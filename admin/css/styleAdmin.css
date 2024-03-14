@@ -1,0 +1,33 @@
+.menuAdmin-list {
+    list-style: none;
+}
+
+.menuAdmin-list a {
+    text-decoration: none;
+    color: #252525;
+    font-size: 16px;
+}
+
+.admin_title {
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+
+/* ---------------------- Login -------------------- */
+.mainLogin {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.mainLogin table {
+    text-align: center;
+    width: 100%;
+}
+
+.mainLogin input {
+    width: 90%;
+}
+
